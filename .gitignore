@@ -1,0 +1,48 @@
+# IntelliJ IDEA specific files and directories
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.nar
+
+# Maven target directory
+target/
+
+# Gradle build directory
+build/
+
+# Eclipse specific files and directories
+.settings/
+.project
+.classpath
+
+# Mac OS specific files
+.DS_Store
+
+# Local configuration files
+*.properties
+*.yml
+
+# Dependency directories
+node_modules/
+
+# Logs
+logs/
+
+# Temp files
+*.tmp
+
+# Virtual machine crash logs
+hs_err_pid*
